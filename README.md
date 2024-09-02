@@ -22,6 +22,9 @@ I'm a **Machine Learning Engineer** with a passion for creating cutting-edge AI 
 ![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-4285F4?logo=googlecloud&logoColor=white&style=for-the-badge)
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge)
 
+### Recent Completed Projects:
+- 🧠 Facts React App : https://learnnewfacts-gaurav.netlify.app (The website is live and the code is on one of my repos)
+
 ### 🏆 Certifications:
 
 - **Career Essentials in Software Development by Microsoft**
