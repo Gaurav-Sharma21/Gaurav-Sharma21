@@ -1,29 +1,36 @@
-## Hi there 👋 , I'm Gaurav Sharma!
+## Hi there , I'm Gaurav Sharma!
 
-I'm a **Machine Learning Engineer** with a passion for creating cutting-edge AI solutions and a solid background in software engineering. I have a strong focus on **Deep Learning** and **Machine Learning**, and I enjoy contributing to open-source projects to develop novel algorithms.
+**Machine Learning Engineer | Software Developer**
 
-- 🔭 I’m currently pursuing my Master's in **Informatik** at Albert Ludwig University of Freiburg, Germany.
-- 🌱 I’m currently diving deep into **NLP** and solving problems on **Leetcode** along with getting better at **React** for Web development applications.
-- 👯 I’m looking to collaborate on innovative AI projects, especially in **health**, **automobile** domains and **seminant analysis**.
-- 🤔 I’m seeking help with expanding my knowledge in **Natural Language Processing** and In-depth Knowledge of **Python** and **Data Structures**.
-- 💬 Ask me about **Deep Learning,Machine Learning Applications and Web Development**.
-- 📫 How to reach me: gaurav198622@yahoo.com
-- ⚡ Fun fact: I love to play **Basketball** and **Hiking**.
+I am a recent Master’s graduate from the **University of Freiburg**, specializing in the field of **Physics Informed Neural Networks**. I bridge the gap between traditional engineering principles and modern AI to build robust, physically consistent models.
 
-### 🛠️ Languages and Tools:
+-  **Master's Thesis:** Successfully submitted at Uni Freiburg on *Physics-Informed Neural Networks for Fatigue Life Prediction*.
+-  **Core Expertise:** Deep Learning, Scientific ML (SciML), and Numerical Optimization.
+-  **Current Focus:** Transitioning PINN research into production-level environments using **Docker**, **FastAPI**, and **High-Performance Computing**.
+-  **Open to Collaborate on:** Industrial AI, Digital Twins, Aerospace/Automotive Simulation, and SciML frameworks.
+-  **Ask me about:** Why standard NNs fail in physical regimes and how PINNs solve it.
+-  **Connect with me:** [LinkedIn](http://www.linkedin.com/in/gaurav-sharma-b01b4911a) | gaurav198622@yahoo.com
 
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
-![Pytorch](https://img.shields.io/badge/-Pytorch-EE4C2C?logo=pytorch&logoColor=white&style=for-the-badge)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
-![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white&style=for-the-badge)
-![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white&style=for-the-badge)
-![Swift](https://img.shields.io/badge/-Swift-FA7343?logo=swift&logoColor=white&style=for-the-badge)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge)
-![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-4285F4?logo=googlecloud&logoColor=white&style=for-the-badge)
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge)
+### 🛠️ Technical Stack:
 
-### Recent Completed Projects:
-- 🧠 Facts React App : https://learnnewfacts-gaurav.netlify.app (The website is live and the code is on one of my repos)
+**AI & Scientific Computing**
+![Pytorch](https://img.shields.io/badge/-Pytorch-EE4C2C?logo=pytorch&logoColor=white&style=flat-square)
+![DeepXDE](https://img.shields.io/badge/DeepXDE-00599C?style=flat-square)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white&style=flat-square)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white&style=flat-square)
+
+**Programming Languages**
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square)
+![C++](https://img.shields.io/badge/-C%2B%2B-00599C?logo=c%2B%2B&logoColor=white&style=flat-square)
+![Go](https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white&style=flat-square)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square)
+
+**Engineering & MLOps**
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat-square)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white&style=flat-square)
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat-square)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black&style=flat-square)
+![GCP](https://img.shields.io/badge/-GCP-4285F4?logo=googlecloud&logoColor=white&style=flat-square)
 
 ### 🏆 Certifications:
 
@@ -32,10 +39,10 @@ I'm a **Machine Learning Engineer** with a passion for creating cutting-edge AI 
 - **Git and GitHub Essentials**
 - **Python Programming by LinkedIn**
 - **Generative AI**
+- **Machine Learning in Production by DeepLearning.AI**
+- **Agentic AI by DeepLearning.AI**
 
 ### 🌐 Find Me Online:
 
 - **LinkedIn**: [Gaurav Sharma](http://www.linkedin.com/in/gaurav-sharma-b01b4911a)
 - **Leetcode**: (https://leetcode.com/u/gaurav198622/)
-- **CodeWars**: [Elizer_Ray](https://www.codewars.com/users/Elizer_Ray)
-- **CodeForces**: [Gaurav_Ray](https://codeforces.com/profile/Gaurav_Ray)
