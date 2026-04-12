@@ -11,6 +11,10 @@ I am a recent Master’s graduate from the **University of Freiburg**, specializ
 -  **Ask me about:** Why standard NNs fail in physical regimes and how PINNs solve it.
 -  **Connect with me:** [LinkedIn](http://www.linkedin.com/in/gaurav-sharma-b01b4911a) | gaurav198622@yahoo.com
 
+### Published Research:
+- "A straightforward machine learning-based giga-cycle fatigue life regression approach for polymer matrix composites" Published at Results in Engineering, 2025 ; https://doi.org/10.1016/j.rineng.2025.108037
+- "Improving Galaxy-based prokaryotic genome annotation by porting and extending the MGnify mettannotator pipeline", 2025 ; https://galaxyproject.org/news/2025-04-03-mettannotator-v1/
+
 ### 🛠️ Technical Stack:
 
 **AI & Scientific Computing**
