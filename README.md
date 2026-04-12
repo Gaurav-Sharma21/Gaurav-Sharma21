@@ -32,17 +32,14 @@ I am a recent Master’s graduate from the **University of Freiburg**, specializ
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black&style=flat-square)
 ![GCP](https://img.shields.io/badge/-GCP-4285F4?logo=googlecloud&logoColor=white&style=flat-square)
 
-### 🏆 Certifications:
+### Certifications:
 
-- **Career Essentials in Software Development by Microsoft**
 - **Building Recommender Systems**
-- **Git and GitHub Essentials**
-- **Python Programming by LinkedIn**
 - **Generative AI**
 - **Machine Learning in Production by DeepLearning.AI**
 - **Agentic AI by DeepLearning.AI**
 
-### 🌐 Find Me Online:
+### Find Me Online:
 
 - **LinkedIn**: [Gaurav Sharma](http://www.linkedin.com/in/gaurav-sharma-b01b4911a)
 - **Leetcode**: (https://leetcode.com/u/gaurav198622/)
