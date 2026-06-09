@@ -46,4 +46,3 @@ I am a recent Master’s graduate from the **University of Freiburg**, specializ
 ### Find Me Online:
 
 - **LinkedIn**: [Gaurav Sharma](http://www.linkedin.com/in/gaurav-sharma-b01b4911a)
-- **Leetcode**: (https://leetcode.com/u/gaurav198622/)
