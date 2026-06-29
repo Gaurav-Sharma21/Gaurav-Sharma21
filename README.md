@@ -2,7 +2,7 @@
 
 **Machine Learning Engineer | Software Developer**
 
-I am a recent Master’s graduate from the **University of Freiburg**, specializing in the field of **Physics Informed Neural Networks**. I bridge the gap between traditional engineering principles and modern AI to build robust, physically consistent models.
+I am a Master’s graduate from the **University of Freiburg**, specializing in the field of **Physics Informed Neural Networks**. I bridge the gap between traditional engineering principles and modern AI to build robust, physically consistent models.
 
 -  **Master's Thesis:** "Developing a Novel Thermo-mechanical Physics-Informed Neural Network for Fatigue Life Prediction in Composite Materials"
 -  **Core Expertise:** Deep Learning, Scientific ML (SciML), and Numerical Optimization.
