@@ -4,7 +4,7 @@
 
 I am a recent Master’s graduate from the **University of Freiburg**, specializing in the field of **Physics Informed Neural Networks**. I bridge the gap between traditional engineering principles and modern AI to build robust, physically consistent models.
 
--  **Master's Thesis:** Successfully submitted at Uni Freiburg on *Physics-Informed Neural Networks for Fatigue Life Prediction*.
+-  **Master's Thesis:** "Developing a Novel Thermo-mechanical Physics-Informed Neural Network for Fatigue Life Prediction in Composite Materials"
 -  **Core Expertise:** Deep Learning, Scientific ML (SciML), and Numerical Optimization.
 -  **Current Focus:** Transitioning PINN research into production-level environments using **Docker**, **FastAPI**, and **High-Performance Computing**.
 -  **Open to Collaborate on:** Industrial AI, Digital Twins, Aerospace/Automotive Simulation, and SciML frameworks.
@@ -14,6 +14,8 @@ I am a recent Master’s graduate from the **University of Freiburg**, specializ
 ### Published Research:
 - "A straightforward machine learning-based giga-cycle fatigue life regression approach for polymer matrix composites" Published at Results in Engineering, 2025 ; https://doi.org/10.1016/j.rineng.2025.108037
 - "Improving Galaxy-based prokaryotic genome annotation by porting and extending the MGnify mettannotator pipeline", 2025 ; https://galaxyproject.org/news/2025-04-03-mettannotator-v1/
+- "A self-heating-based physics-guided neural network for fatigue life prediction of polymer matrix composites" Published at Materials & Design, 2026 ; https://doi.org/10.1016/j.matdes.2026.116444
+
 
 ### 🛠️ Technical Stack:
 
@@ -42,7 +44,3 @@ I am a recent Master’s graduate from the **University of Freiburg**, specializ
 - **Generative AI**
 - **Machine Learning in Production by DeepLearning.AI**
 - **Agentic AI by DeepLearning.AI**
-
-### Find Me Online:
-
-- **LinkedIn**: [Gaurav Sharma](http://www.linkedin.com/in/gaurav-sharma-b01b4911a)
